@@ -1,2 +1,3 @@
 # Git
 La funcion de github
+Github es un controlador de versiones que funciona como resplado de archivos que pueden modificar para su correcion, mejora y que puede guardar en una plataforma que otros usuarios puedn visualiar dicha programacion. Github es mas un programa para una cierta cantidad de gente que quiera realizar un proyecto y quisiera modificar yo lo utilizaria para crear un sistema de seguridad programarlo y la gente que comprenda mejor pueda mejorar. y tambien podria ser utilizado para crear programas. Afuera de la programacion se podria utilizar para solo vizualisar aquellas personas que utilizen un lenguaje de progrmacion avanzado. 
